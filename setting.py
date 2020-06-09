@@ -10,17 +10,17 @@ PLATFORM = 2
 WEIUSER = '13528740588'
 WEIPWD = '3y0t2aed'
 
-YINGUSER = 'jysj2020'
-YINGPWD = 'jysj123456'
-YINGCODE = 'fd38f7e92eb6a1c9d76012b40ca55384'
+YINGUSER = '*******'
+YINGPWD = '********'
+YINGCODE = '**************'
 
-HOST = "rm-uf64kgb22y5l1nau3ko.mysql.rds.aliyuncs.com"
-USER = "root"
-PASSWORD = "Alidan01123382"
+HOST = "********"
+USER = "*****"
+PASSWORD = "**********"
 DATABASE = "wei_bo"
 CHARSET = 'utf8'
 
-BASE_URL = "http://116.228.183.198:8888/api/"
+BASE_URL = "**********"
 TEST_TOKEN = "3d5d2977930365c87182c53ee21409d8435ccec8843a68c7d39e8d3512352f5e"
 ROBOTO_ACC_ID = "61433375991851693"
 ROBOTO_ACC_OWNER = 1
